@@ -1,2 +1,0 @@
-# curriculo
-Currículo do Wesley
